@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
 
 
 html, body {
   font-family: 'Dancing Script', cursive;
+  font-family: 'Chewy', cursive;
   max-width: 500px;
   margin: auto;
   background-color: rgba(12, 11, 11, 0.753);
@@ -10,6 +12,7 @@ html, body {
 }
 
 body {
+  background-color: transparent;
   padding: 20px;
 }
 
