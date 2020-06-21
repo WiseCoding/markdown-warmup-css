@@ -1,3 +1,3 @@
-## GitHub Pages
+## View Exercise Online
 
-[See Exercise Online](https://wisecoding.github.io/markdown-warmup-css/)
+- [GitHub Pages](https://wisecoding.github.io/markdown-warmup-css/)
