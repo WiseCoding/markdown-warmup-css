@@ -1,3 +1,3 @@
 ## View Exercise Online
 
-- [GitHub Pages](https://wisecoding.github.io/markdown-warmup-css/)
+- [GitHub Pages](https://mattiasbonte.github.io/markdown-warmup-css/)
